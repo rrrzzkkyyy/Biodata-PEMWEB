@@ -52,3 +52,27 @@ body {
     object-fit: cover;
     border-radius: 50%;
 }
+
+.cv {
+    margin-top: 50px;
+}
+
+.tentang_saya,
+.pendidikan {
+    padding: 20px;
+    margin-bottom: 20px;
+
+    background-color: #f5f5f5;
+    border-radius: 12px;
+}
+
+.tentang_saya h2,
+.pendidikan h2 {
+    margin-top: 0;
+}
+
+.tentang_saya p,
+.pendidikan p {
+    line-height: 1.7;
+    text-align: justify;
+}
